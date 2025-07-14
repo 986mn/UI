@@ -1,13 +1,3 @@
---[[	
-
-	|	NEVERLOSE	UI	|
-	Fuck Synapse X
-		THIS UI MAKE BY CAT_SUS		
-		original Neverlose
-		
-		[https://neverlose.cc/] - csgo cheat
-]]
-
 local LocalPlayer = game:GetService('Players').LocalPlayer;
 local Mouse = LocalPlayer:GetMouse();
 local InputService = game:GetService('UserInputService');

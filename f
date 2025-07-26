@@ -133,8 +133,6 @@ local speaker = game:GetService("Players").LocalPlayer
 local chr = game.Players.LocalPlayer.Character
 local hum = chr and chr:FindFirstChildWhichIsA("Humanoid")
 
-nowe = false
-
 Frame.Active = true -- main = gui
 Frame.Draggable = true
 

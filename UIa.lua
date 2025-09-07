@@ -7586,7 +7586,7 @@ Icons=a.load'R'
 
 local ak=ae("TextBox",{
 Text="",
-PlaceholderText="Search...",
+PlaceholderText="搜索...",
 ThemeTag={
 PlaceholderColor3="Placeholder",
 TextColor3="Text",
@@ -9527,7 +9527,7 @@ local A=false
 
 
 
-local B=ai("Search","search",ao.UIElements.SideBarContainer)
+local B=ai("搜索","搜索",ao.UIElements.SideBarContainer)
 B.Size=UDim2.new(1,-ao.UIPadding/2,0,39)
 B.Position=UDim2.new(0,ao.UIPadding/2,0,ao.UIPadding/2)
 

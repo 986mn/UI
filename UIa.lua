@@ -9527,7 +9527,7 @@ local A=false
 
 
 
-local B=ai("搜索","搜索",ao.UIElements.SideBarContainer)
+local B=ai("搜索","search",ao.UIElements.SideBarContainer)
 B.Size=UDim2.new(1,-ao.UIPadding/2,0,39)
 B.Position=UDim2.new(0,ao.UIPadding/2,0,ao.UIPadding/2)
 
